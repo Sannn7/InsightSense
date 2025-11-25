@@ -1,0 +1,25 @@
+# Virtual env
+.venv/
+
+# Data/Vector stores (local only)
+data/
+
+# Byte-compiled / caches
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+
+# Local env
+.env
+
+# macOS
+.DS_Store
+__pycache__/
+venv/
+.env
+data/
+*.pdf
+*.faiss
+*.pkl

@@ -1,4 +1,4 @@
-# InsightSense (starter)
+# InsightSense
 
 Lightweight skeleton for an RAG-backed Streamlit app.
 
